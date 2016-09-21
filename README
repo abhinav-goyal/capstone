@@ -3,9 +3,8 @@ README
 
 This directory contains the implementation for the capstone project.
 
-It organizes this project into the following sub directories
+It contains the following subdirectories.
 
-
-docs: papers. Udacity docs pertaining to what needs to be implemented
-src: the code for this implementation
-report: project report and images used to prepare it
+docs:   Papers, Udacity docs pertaining to what needs to be implemented
+src:    The code for this implementation
+report: Project report and images used to prepare it
